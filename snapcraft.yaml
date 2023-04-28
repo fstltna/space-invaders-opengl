@@ -3,7 +3,7 @@ title:  Space Invaders OpenGL
 version: "0.6.1"
 summary:   Update to the arcade classic
 description: |
-  Update to the arcade classic
+  A 2D/3D game based on the old arcade classic in which you must destroy enemy ships by shooting them up.
 
 grade: stable
 icon: space-invaders-opengl_icon.png
